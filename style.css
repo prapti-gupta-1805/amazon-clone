@@ -23,7 +23,7 @@
 }
 
 .logo {
-    background-image: url("amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
     height: 45px;
     width: 100%;
     background-size: cover;
@@ -230,7 +230,7 @@
     display: flex;
     align-items: flex-end;
     justify-content: center;
-    background-image: url("61BKVkj5+uL._SX3000_.jpg");
+    background-image: url("images/hero_image.jpg");
     background-size: cover;
     height: 290px;
 }
@@ -273,7 +273,7 @@
     flex-direction: column;
     height:300px;
     width:97%;
-    background-image: url('gaming accessories.jpeg');
+    background-image: url('images/gaming accessories.jpeg');
     background-size: cover;
 }
 
@@ -282,7 +282,7 @@
     flex-direction: column;
     height:300px;
     width:97%;
-    background-image: url('shop for your home essentials.jpeg');
+    background-image: url('images/shop for your home essentials.jpeg');
     background-size: cover;
 }
 
@@ -291,7 +291,7 @@
     flex-direction: column;
     height:300px;
     width:97%;
-    background-image: url('top categories in kitchen appliances.jpeg');
+    background-image: url('images/top categories in kitchen appliances.jpeg');
     background-size: cover;
 }
 
@@ -300,7 +300,7 @@
     flex-direction: column;
     height:300px;
     width:97%;
-    background-image: url('shop deals in fashion.jpeg');
+    background-image: url('images/shop deals in fashion.jpeg');
     background-size: cover;
 }
 
