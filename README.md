@@ -27,6 +27,11 @@ cd amazon-clone
 The main page loads a replica of the Amazon homepage, with clickable categories that redirect to relevant external Amazon pages (e.g., Today's Deals, Customer Service, Gift Cards, etc.).
 The search bar can be used to look for products (currently non-functional).
 
+**Live Demo**
+You can explore the live demo of this Amazon Clone below:
+
+https://prapti-gupta-1805.github.io/amazon-clone/
+
 **Screenshots**
 ## Full Website Screenshot
 ![Full Website](images/project-screenshots/full-website.jpeg)
