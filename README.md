@@ -16,7 +16,7 @@ You can explore the live demo of this Amazon Clone below:
 
 [Live Demo](https://prapti-gupta-1805.github.io/amazon-clone/)
 
-**Note:** This project is a **non-responsive** website, meaning it does not adapt to different screen sizes like mobile devices or tablets.
+**Note:** This project is a **non-responsive** website, meaning it does not adapt to different screen sizes like mobile devices or tablets. (works optimally for widescreen aspect ratio)
 
 **Screenshots**  
 
