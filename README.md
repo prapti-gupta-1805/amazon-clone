@@ -11,12 +11,12 @@ Footer Section: A comprehensive footer with links to different Amazon pages like
 HTML: Basic structure of the webpage. <br>
 CSS: Styling for layout, design, and responsiveness. <br>
 
-**Live Demo**
+**Live Demo** <br>
 You can explore the live demo of this Amazon Clone below:
 
 https://prapti-gupta-1805.github.io/amazon-clone/
 
-**Screenshots**
+**Screenshots** <br>
 ## Full Website Screenshot
 ![Full Website](images/project-screenshots/full-website.jpeg)
 
