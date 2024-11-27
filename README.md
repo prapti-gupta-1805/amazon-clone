@@ -10,8 +10,6 @@ Footer Section: A comprehensive footer with links to different Amazon pages like
 **Technologies Used** <br>
 HTML: Basic structure of the webpage. <br>
 CSS: Styling for layout, design, and responsiveness. <br>
-Font Awesome: Icons used for navigation and cart. <br>
-Images: Custom images for product categories and promotional banners. <br>
 
 **Installation** <br>
 To run this project locally:
