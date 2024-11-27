@@ -254,6 +254,7 @@
 
 .shop-section {
     display: flex;
+    flex-wrap: wrap;
     align-items: flex-start;
     justify-content: space-evenly;
     background-color: #e6011d;
@@ -273,7 +274,7 @@
     flex-direction: column;
     height:320px;
     width:97%;
-    background-image: url('images/gaming accessories.jpeg');
+    background-image: url('images/Score Black Friday Week deals.jpeg');
     background-size: cover;
 }
 
@@ -282,7 +283,7 @@
     flex-direction: column;
     height:320px;
     width:97%;
-    background-image: url('images/shop for your home essentials.jpeg');
+    background-image: url('images/Toys under $25.jpeg');
     background-size: cover;
 }
 
@@ -291,11 +292,47 @@
     flex-direction: column;
     height:300px;
     width:97%;
-    background-image: url('images/top categories in kitchen appliances.jpeg');
+    background-image: url('images/Refresh your space.jpeg');
     background-size: cover;
 }
 
 .box-img4 {
+    display: flex;
+    flex-direction: column;
+    height:325px;
+    width:97%;
+    background-image: url('images/Shop Black Friday deals.jpeg');
+    background-size: cover;
+}
+
+.box-img5 {
+    display: flex;
+    flex-direction: column;
+    height:325px;
+    width:97%;
+    background-image: url('images/gaming accessories.jpeg');
+    background-size: cover;
+}
+
+.box-img6 {
+    display: flex;
+    flex-direction: column;
+    height:325px;
+    width:97%;
+    background-image: url('images/shop for your home essentials.jpeg');
+    background-size: cover;
+}
+
+.box-img7 {
+    display: flex;
+    flex-direction: column;
+    height:305px;
+    width:97%;
+    background-image: url('images/top categories in kitchen appliances.jpeg');
+    background-size: cover;
+}
+
+.box-img8 {
     display: flex;
     flex-direction: column;
     height:325px;
@@ -310,4 +347,43 @@
 
 .shop-section p {
     color: #007185;
+}
+
+/* footer */
+
+.margin {
+    height:15px;
+    background-color: #e6011d;
+}
+.foot-panel1 {
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.6rem;
+}
+
+.foot-panel2 {
+    display: flex;
+    justify-content:center;
+    align-items:start;
+    background-color: #222f3d;
+    color: white;
+}
+
+ul {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ul p {
+    font-weight: 600;
+    font-size: 0.85rem;
+}
+ul a {
+    font-size: 0.65rem;
+    margin-top: 5px;
+    color: #dddddd;
 }
