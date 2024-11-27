@@ -11,22 +11,6 @@ Footer Section: A comprehensive footer with links to different Amazon pages like
 HTML: Basic structure of the webpage. <br>
 CSS: Styling for layout, design, and responsiveness. <br>
 
-**Installation** <br>
-To run this project locally:
-
-1. Clone the repository:
-git clone https://github.com/prapti-gupta-1805/amazon-clone.git
-
-2. Navigate to the project directory:
-cd amazon-clone
-
-3. Open index.html in your web browser.
-
-**Usage** <br>
-
-The main page loads a replica of the Amazon homepage, with clickable categories that redirect to relevant external Amazon pages (e.g., Today's Deals, Customer Service, Gift Cards, etc.).
-The search bar can be used to look for products (currently non-functional).
-
 **Live Demo**
 You can explore the live demo of this Amazon Clone below:
 
