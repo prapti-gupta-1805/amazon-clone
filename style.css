@@ -269,6 +269,17 @@
     padding-top: 15px;
 }
 
+.h {
+    display: flex;
+    justify-content: left;
+    align-items: start;
+}
+
+.m {
+    display: flex;
+    justify-content: left;
+    align-items: end;  
+}
 .box-img1 {
     display: flex;
     flex-direction: column;
