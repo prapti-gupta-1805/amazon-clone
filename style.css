@@ -23,7 +23,7 @@
 }
 
 .logo {
-    background-image: url("images/amazon_logo.png");
+    background-image: url("assets/amazon_logo.png");
     height: 45px;
     width: 100%;
     background-size: cover;
@@ -148,7 +148,6 @@
     background-color: #0f1111;
     border-color: #0f1111;
     color: white;
-
 }
 
 /* box 6 */
@@ -230,7 +229,7 @@
     display: flex;
     align-items: flex-end;
     justify-content: center;
-    background-image: url("images/hero_image.jpg");
+    background-image: url("assets/hero_image.jpg");
     background-size: cover;
     height: 290px;
 }
@@ -285,7 +284,7 @@
     flex-direction: column;
     height:320px;
     width:97%;
-    background-image: url('images/Score Black Friday Week deals.jpeg');
+    background-image: url('assets/Score Black Friday Week deals.jpeg');
     background-size: cover;
 }
 
@@ -294,7 +293,7 @@
     flex-direction: column;
     height:320px;
     width:97%;
-    background-image: url('images/Toys under $25.jpeg');
+    background-image: url('assets/Toys under $25.jpeg');
     background-size: cover;
 }
 
@@ -303,7 +302,7 @@
     flex-direction: column;
     height:300px;
     width:97%;
-    background-image: url('images/Refresh your space.jpeg');
+    background-image: url('assets/Refresh your space.jpeg');
     background-size: cover;
 }
 
@@ -312,7 +311,7 @@
     flex-direction: column;
     height:325px;
     width:97%;
-    background-image: url('images/Shop Black Friday deals.jpeg');
+    background-image: url('assets/Shop Black Friday deals.jpeg');
     background-size: cover;
 }
 
@@ -321,7 +320,7 @@
     flex-direction: column;
     height:325px;
     width:97%;
-    background-image: url('images/gaming accessories.jpeg');
+    background-image: url('assets/gaming accessories.jpeg');
     background-size: cover;
 }
 
@@ -330,7 +329,7 @@
     flex-direction: column;
     height:325px;
     width:97%;
-    background-image: url('images/shop for your home essentials.jpeg');
+    background-image: url('assets/shop for your home essentials.jpeg');
     background-size: cover;
 }
 
@@ -339,7 +338,7 @@
     flex-direction: column;
     height:305px;
     width:97%;
-    background-image: url('images/top categories in kitchen appliances.jpeg');
+    background-image: url('assets/top categories in kitchen appliances.jpeg');
     background-size: cover;
 }
 
@@ -348,7 +347,7 @@
     flex-direction: column;
     height:325px;
     width:97%;
-    background-image: url('images/shop deals in fashion.jpeg');
+    background-image: url('assets/shop deals in fashion.jpeg');
     background-size: cover;
 }
 
