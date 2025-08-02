@@ -16,4 +16,28 @@ You can explore the live demo of this Amazon Clone below:
 
 [Live Demo](https://prapti-gupta-1805.github.io/amazon-clone/)
 
+- **screenshots**
+
+- ## Full Website Screenshot
+- ![Full Website](assets/project-screenshots/full-website.jpeg)
+
+- ## Navbar
+- ![Navbar](assets/project-screenshots/navbar.jpeg)
+
+- ## Hero Section
+- ![Hero Section](assets/project-screenshots/hero-section.jpeg)
+
+- ## Shop Section
+- ![Shop Section](assets/project-screenshots/shop-section.jpeg)
+
+- ## Footer
+- ![Footer](assets/project-screenshots/footer.jpeg)
+
+- ## Hover Effects
+- ### Hover Effect 1
+- ![Hover 1](assets/project-screenshots/hover1.jpeg)
+
+- ### Hover Effect 2
+- ![Hover 2](assets/project-screenshots/hover2.jpeg)
+
 **Note:** This project is a **non-responsive** website, meaning it does not adapt to different screen sizes like mobile devices or tablets. (works optimally for 16:9 widescreen aspect ratio)
